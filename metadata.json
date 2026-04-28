@@ -1,0 +1,8 @@
+{
+  "name": "Quran Voice Copilot",
+  "description": "A minimalistic voice assistant for elderly people to recite and explain the Quran in Urdu.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
